@@ -21,8 +21,3 @@ This project implements a **Deep Learning Autoencoder** using **PyTorch** to lea
 - ISOMAP visualization revealed clear digit clusters with smooth transitions between similar digits
 - Reconstruction accuracy: ~92% on test set
 
-## 🚀 How to Run
-```bash
-pip install torch numpy matplotlib scikit-learn
-python autoencoder.py
-python visualize_latent.py
